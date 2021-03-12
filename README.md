@@ -5,8 +5,10 @@ Install [shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev) an
 Get a certificate from [Let’s Encrypt](https://letsencrypt.org) to enable shadowsocks over websocket (HTTPS).  
 You must use shadowsocks via port 443 with v2ray-plugin and can even run your shadowsocks server behind the CDN like [Cloudflare](https://www.cloudflare.com/).  
 ### Requirement
-VPS  
+VPS
+
 domain
+
 Cloudflare
 ### Usage
 ```bash

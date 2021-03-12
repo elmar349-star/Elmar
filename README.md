@@ -24,5 +24,6 @@ systemctl start shadowsocks
 systemctl stop shadowsocks
 ```
 ### Notice
-Tested on Ubuntu 18.04/16.04
+Tested on Ubuntu 18.04/16.04 or Debian 9/10
+
 ***Full of bugs.*** 

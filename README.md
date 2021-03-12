@@ -14,7 +14,7 @@ Cloudflare
 ```bash
 # Installation
 ## Ubuntu 18.04/16.04 or Debian 9/10
-wget -O ubuntu-ss-install.sh https://github.com/M3chD09/shadowsocks-with-v2ray-plugin-install/raw/master/ubuntu-ss-install.sh
+wget -O ubuntu-ss-install.sh https://raw.githubusercontent.com/elmar349-star/Shadowsocks-ubuntu-installer/main/ubuntu-shadowsocks-install.sh
 chmod +x ubuntu-ss-install.sh
 ./ubuntu-ss-install.sh
 

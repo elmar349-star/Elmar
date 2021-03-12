@@ -25,4 +25,4 @@ systemctl stop shadowsocks
 ```
 ### Notice
 Tested on Ubuntu 18.04/16.04
-***Full of bugs.***  
+***Full of bugs.*** 
